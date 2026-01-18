@@ -52,7 +52,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 * Análisis del desempeño y equidad de algoritmos de clasificación  con ruido en la clase y atributos	Ana Cecilia Vargas Paredes, ROSA SUMACTIKA DELGADILLO AVILA DE MAURICIO
 
-* india: un paquete para diagnóstico de influencia en ciertos modelos estadísticos	Felipe Osorio
+* [india: un paquete para diagnóstico de influencia en ciertos modelos estadísticos](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/1.pdf)	Felipe Osorio
 
 * ¿Qué importancia tiene el número de movimientos en una partida de ajedrez? El caso del gran maestro de ajedrez Wolfgang Uhlmann y la Defensa Francesa	Freddy O. López Quintero
 
@@ -70,7 +70,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 * Creación de reportes de proyectos de iNaturalist usando `quarto`	Florencia Grattarola
 
-* inventarioRRNN. Un paquete de datos en R para abrir datos de recursos naturales de La Pampa	Juan Marcelo Caldera, Yanina Noemí Bellini Saibene
+* [inventarioRRNN. Un paquete de datos en R para abrir datos de recursos naturales de La Pampa](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/21.pdf)	Juan Marcelo Caldera, Yanina Noemí Bellini Saibene
 
 * R en el rio: Procesando datos de geociencias en el terreno	Pedro Rau
 
