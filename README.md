@@ -1,5 +1,13 @@
-# presentaciones-latinr2024
+# Keynotes, Contribuciones y Tutoriales LatinR 2024
+
 Acceso a todo el material de tutoriales, presentaciones y papers de la edición 2024 de LatinR
+
+1. [Charlas principales invitadas](#Keynotes)
+2. [Contribuciones](#Contribuciones)
+3. [Tutoriales](#Tutoriales)
+
+## Keynotes
+
 
 ## Contribuciones
 
