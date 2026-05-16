@@ -80,9 +80,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ### [Automatización de procesos, gestión de datos y reportes](https://www.youtube.com/playlist?list=PL9-E3cL2KgKkznSEJCdQxA7UMWV7iAmq-)
 
-* [Quarto com vista para o campo](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/32.pdf). Renata Florentino de Faria Santos, Carolina Musso, Leandro de Almeida Salles, Rafael de Acypreste
-
-* Monteiro Rocha, Rogerio Vidal de Siqueira, ALINE DA NÓBREGA OLIVEIRA, Luiz Antônio Gouveia de Oliveira
+* [Quarto com vista para o campo](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/32.pdf). Renata Florentino de Faria Santos, Carolina Musso, Leandro de Almeida Salles, Rafael de Acypreste Monteiro Rocha, Rogerio Vidal de Siqueira, ALINE DA NÓBREGA OLIVEIRA, Luiz Antônio Gouveia de Oliveira
 
 * [Marcas Tracker](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/74.pdf). Victoria Casaravilla, Camila Campagnolo García, Linda Gareis
 
