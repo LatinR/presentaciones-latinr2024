@@ -8,7 +8,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 * [The CRAN Cookbook: Improving the Skills of R Package Maintainers](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/40.pdf). Jasmine Daly, Benjamin Altmann, Bettina Gruen, gwynn gebeyehu, Heather Turner
 
 * [Making Code Contributions Seamless with R-Dev-Container](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/33.pdf). Atharva Shirdhankar, Heather Turner, Iain Emsley
-[`{plumberizer}` - Production-Grade Apps with Automatically Generated API Backends](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/73.pdf). Juan Cruz Rodriguez
+* [`{plumberizer}` - Production-Grade Apps with Automatically Generated API Backends](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/73.pdf). Juan Cruz Rodriguez
 
 ### [El proceso de desarrollo de paquetes](https://www.youtube.com/playlist?list=PL9-E3cL2KgKlQDTrBtMrZ_oUnfheLBSDJ)
 
@@ -46,7 +46,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ### [Modelos estadísticos 1](https://www.youtube.com/playlist?list=PL9-E3cL2KgKnAwkOzVlLv07PWxytgHie2)
 
-* [IMPLEMENTACIÓN DE COMPARACIONES ENTRE GRUPOS UTILIZANDO LA ECUACIÓN DE GOMPERTZ Y VARIABLES DUMMY.](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/30.pdf) Pablo Vázquez-Borsetti, Juan Pablo Barreyro, CALERO Alejandra Daniela
+* [IMPLEMENTACIÓN DE COMPARACIONES ENTRE GRUPOS UTILIZANDO LA ECUACIÓN DE GOMPERTZ Y VARIABLES DUMMY.](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/30.pdf). Pablo Vázquez-Borsetti, Juan Pablo Barreyro, CALERO Alejandra Daniela
 
 * [Correlaciones con el paquete R-Statix. Caso real de análisis del flujo de efectivo de US$13.000 millones del Fondo de Desarrollo Social y Asignaciones Familiares (FODESAF) del 2005 al 2021](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/4.pdf). Roberto Delgado Castro
 
@@ -88,7 +88,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 * [Matriz de madurez: aplicación de shiny app a instrumentos de evaluación de organizaciones](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/67.pdf). Juan Manuel Dias, Juan Gabriel Juara
 
-* [UnalR: Apostándole a Simplificar Procesos y Unificar Herramientas.](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/20.pdf) Jeison Mauricio Alarcon Becerra
+* [UnalR: Apostándole a Simplificar Procesos y Unificar Herramientas.](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/20.pdf). Jeison Mauricio Alarcon Becerra
 
 * [Paquete mirtCAT para la gestión académica](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/44.pdf). María Teresa Noguera, Micaela Jazmín Elizabeth Soto
 
@@ -98,7 +98,7 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 * [TimeGPT: Leveraging Generative AI for Time Series Forecasting in R](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/75.pdf). Mariana Menchero, Tracy Teal
 
-* [Qual o tamanho da sua incerteza?](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/39.pdf) Carolina Musso, Ricardo Torres, Guilherme Souza Rodrigues
+* [Qual o tamanho da sua incerteza?](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/39.pdf). Carolina Musso, Ricardo Torres, Guilherme Souza Rodrigues
 
 * [Como desenvolve-R um Índice R-eprodutível e Compa-R-ável](https://github.com/LatinR/presentaciones-latinr2024/blob/main/contribuciones/46.pdf). ALINE DA NÓBREGA OLIVEIRA, Rogerio Vidal de Siqueira, Leandro de Almeida Salles, Rafael de Acypreste Monteiro Rocha, Luiz Antonio Gouveia de Oliveira
 
