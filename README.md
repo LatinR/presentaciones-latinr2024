@@ -184,17 +184,17 @@ Acceso a todo el material de tutoriales, presentaciones y papers de la edición 
 
 ## Tutoriales
 
-* Optimizando Shiny: Consejos y Trucos de Rendimiento
+* [Optimizando Shiny: Consejos y Trucos de Rendimiento](https://youtu.be/O82VRaW5x4I?si=GtC9anZjpncgK4DK)
 
-* Introduccion a Github para Investigador(a|e)s
+* [Introduccion a Github para Investigador(a|e)s](https://youtu.be/_nU5piBDJwA?si=2Dn3xZOL1HegKrwF)
 
-* Análisis de Datos Satelitales en R: Aplicaciones Prácticas con Machine Learning.
+* [Análisis de Datos Satelitales en R: Aplicaciones Prácticas con Machine Learning.](https://www.youtube.com/watch?v=NdJBiY6XRm4)
 
-* Despliegue Continuo con R, GitHub y Quarto: Implementando Buenas Prácticas
+* [Despliegue Continuo con R, GitHub y Quarto: Implementando Buenas Prácticas](https://youtu.be/mb3G0RFxz3g?si=HI5REnnsoyAYRFW2)
 
 * Desarrollo de Paquetes en R: Desde la Idea hasta la Implementación y Distribución
 
-* Working with larger than memory data in R with Arrow and DuckDB
+* [Working with larger than memory data in R with Arrow and DuckDB](https://www.youtube.com/watch?v=yp5Q85geHF0)
 
 * Llevá tus gráficos con ggplot2 al siguiente nivel
 
